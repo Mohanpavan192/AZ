@@ -1,0 +1,25 @@
+Mostly used in questions involving subarrays and substrings, where individual contribution matters
+find minimum or maximum or distinct elements of all subarrays/substrings of a given array
+instead of asking how many elements present ina  subarray, we have to ask, how many subarrays does thsi element contribute
+Questions
+1) https://leetcode.com/problems/vowels-of-all-substrings/description/
+
+2) https://leetcode.com/problems/total-appeal-of-a-string/
+
+3) https://leetcode.com/problems/count-vowel-substrings-of-a-string/
+
+4) https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+
+5) https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/
+
+6) https://leetcode.com/problems/vowels-of-all-substrings/
+
+7) https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/
+
+
+LC Weekly Problems:
+
+1) https://leetcode.com/contest/weekly-contest-433/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/description/
+
+2) https://leetcode.com/contest/weekly-contest-433/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/description/
+
