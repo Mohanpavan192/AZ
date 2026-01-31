@@ -2,6 +2,9 @@ Mostly used in questions involving subarrays and substrings, where individual co
 find minimum or maximum or distinct elements of all subarrays/substrings of a given array
 instead of asking how many elements present ina  subarray, we have to ask, how many subarrays does thsi element contribute
 Questions
+IMPortant
+When duplicate elements are involved, consider only first occurrence on either left side or right side,
+like in thsi problem, find sum of minimum of all subarrays,when duplicate elements are present
 1) https://leetcode.com/problems/vowels-of-all-substrings/description/
 
 2) https://leetcode.com/problems/total-appeal-of-a-string/
