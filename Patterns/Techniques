@@ -1,0 +1,15 @@
+Technique - Split in middle
+Explanation-
+when your requirement is to add on either left or right side of a particular element and you need to the final data structure, you have to maintain
+two data structures and make tha current element as mid, if you have to add on left, push mid to right and make new element as mid, inow if you have to add
+to the right, then push current mid to left and make new element as new mid and go on, at the ene, traverse left first ,then mid and right next, you can use deque for
+left and right
+PRoblem
+https://atcoder.jp/contests/abc237/tasks/abc237_d
+
+Technique - Dimension Reduction
+Explanation -
+Whenever you need to calculate something in multiple dimensions like 2d, 3d, or multiple subarrays, then solve for simpler version like 
+let's solve 1d version first ,solve for 1 array first, then we can extend it to multipele dimensions or multiple subarrays
+Problem-
+https://maang.in/problems/Maximum-Area-AZ101-374
